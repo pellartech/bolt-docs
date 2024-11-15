@@ -96,16 +96,16 @@ const config: Config = {
           title: "Community",
           items: [
             {
-              label: "Stack Overflow",
-              href: "https://stackoverflow.com/questions/tagged/docusaurus",
+              label: "Telegram",
+              href: "https://t.me/lightlinkLL",
             },
             {
               label: "Discord",
-              href: "https://discordapp.com/invite/docusaurus",
+              href: "https://discord.gg/lightlinkchain",
             },
             {
               label: "X",
-              href: "https://x.com/docusaurus",
+              href: "https://twitter.com/lightlinkchain",
             },
           ],
         },
@@ -113,8 +113,8 @@ const config: Config = {
           title: "More",
           items: [
             {
-              label: "Blog",
-              to: "/blog",
+              label: "Web",
+              href: "https://lightlink.io",
             },
             {
               label: "GitHub",
@@ -123,7 +123,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      // copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
