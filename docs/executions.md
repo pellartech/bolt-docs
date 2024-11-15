@@ -275,7 +275,6 @@ interface IContractExecutionListResponse {
 
 - Explore other sections like [Contracts](contracts.md) and [Tokens](tokens.md) to interact with smart contracts and tokens using the SDK.
 - Implement error handling and input validation in your application to ensure robust interactions with the API.
-- Refer to the [API Reference](api-reference.md) for detailed information on all available methods and data structures.
 
 ---
 

@@ -849,7 +849,6 @@ interface ITokenAccount {
 ## Next Steps
 
 - Explore other sections like [Accounts](accounts.md) and [Contracts](contracts.md) to manage accounts and contracts using the SDK.
-- Check the [API Reference](api-reference.md) for detailed information on all available methods and data structures.
 - Implement error handling and input validation in your application to ensure robust interactions with the API.
 
 ---
